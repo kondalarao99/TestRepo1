@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite skipped="0" tests="1" failures="0" errors="0" name="com.companyname.test.AppTest" time="0.022">
+  <properties>
+    <property value="IBM Corporation" name="java.vendor"/>
+    <property value="C:/Users/kgarlapati/.m2/maven.repo" name="localRepository"/>
+    <property value="SUN_STANDARD" name="sun.java.launcher"/>
+    <property value="Windows Vista" name="os.name"/>
+    <property value="C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\bin\default\jclSC160\vm.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\annotation.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\beans.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\java.util.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\jndi.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\logging.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\security.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\sql.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\ibmorb.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\ibmorbapi.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\ibmcfw.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\rt.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\charsets.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\resources.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\ibmpkcs.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\ibmcertpathfw.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\ibmjgssfw.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\ibmjssefw.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\ibmsaslfw.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\ibmjcefw.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\ibmjgssprovider.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\ibmjsseprovider2.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\ibmcertpathprovider.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\ibmxmlcrypto.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\management-agent.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\xml.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\jlm.jar;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\javascript.jar" name="sun.boot.class.path"/>
+    <property value="" name="sun.java2d.fontpath"/>
+    <property value="Sun Microsystems Inc." name="java.vm.specification.vendor"/>
+    <property value="jvmwa6460sr5-20090519_35743" name="java.runtime.version"/>
+    <property value="kgarlapati" name="user.name"/>
+    <property value="j9jit24" name="java.compiler"/>
+    <property value="UTF8" name="os.encoding"/>
+    <property value="" name="com.ibm.util.extralibs.properties"/>
+    <property value="" name="com.ibm.jcl.checkClassPath"/>
+    <property value="en" name="user.language"/>
+    <property value="C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\bin\default;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\bin" name="com.ibm.oti.vm.bootstrap.library.path"/>
+    <property value="C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\bin\default;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\bin" name="sun.boot.library.path"/>
+    <property value="1.6.0" name="java.version"/>
+    <property value="" name="user.timezone"/>
+    <property value="64" name="sun.arch.data.model"/>
+    <property value="C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\endorsed" name="java.endorsed.dirs"/>
+    <property value="24" name="com.ibm.oti.vm.library.version"/>
+    <property value="Cp1252" name="sun.jnu.encoding"/>
+    <property value="14" name="jxe.current.romimage.version"/>
+    <property value="\" name="file.separator"/>
+    <property value="Java Platform API Specification" name="java.specification.name"/>
+    <property value="50.0" name="java.class.version"/>
+    <property value="US" name="user.country"/>
+    <property value="C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre" name="java.home"/>
+    <property value="J2RE 1.6.0 IBM J9 2.4 Windows Vista amd64-64 jvmwa6460sr5-20090519_35743 (JIT enabled, AOT enabled)
+J9VM - 20090519_035743_LEdSMr
+JIT  - r9_20090518_2017
+GC   - 20090417_AA" name="java.vm.info"/>
+    <property value="6.1 build 7601 Service Pack 1" name="os.version"/>
+    <property value="C:\Users\KGARLA~1\AppData\Local\Temp\surefirebooter5829096402602857268.jar" name="surefire.real.class.path"/>
+    <property value="" name="java.awt.fonts"/>
+    <property value=";" name="path.separator"/>
+    <property value="2.4" name="java.vm.version"/>
+    <property value="java.util.prefs.WindowsPreferencesFactory" name="java.util.prefs.PreferencesFactory"/>
+    <property value="" name="user.variant"/>
+    <property value="Cp437" name="console.encoding"/>
+    <property value="sun.awt.windows.WPrinterJob" name="java.awt.printerjob"/>
+    <property value="UnicodeLittle" name="sun.io.unicode.encoding"/>
+    <property value="sun.awt.windows.WToolkit" name="awt.toolkit"/>
+    <property value="true" name="ibm.signalhandling.sigint"/>
+    <property value="ON" name="java.assistive"/>
+    <property value="C:\Users\kgarlapati" name="user.home"/>
+    <property value="little" name="com.ibm.cpu.endian"/>
+    <property value="Sun Microsystems Inc." name="java.specification.vendor"/>
+    <property value="true" name="ibm.signalhandling.sigchain"/>
+    <property value="C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\bin\default;C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\bin;.;C:/ppde-sparta-1.0.0/apache-tomcat-5.5.34/bin;C:/ppde-sparta-1.0.0/apache-maven-2.2.1/bin;C:/ppde-sparta-1.0.0/java6-ibm-sr5ifx-2009-09-18-windows_64/jre/bin;C:/ppde-sparta-1.0.0/java6-ibm-sr5ifx-2009-09-18-windows_64/bin;C:\PERL51001\Perl\site\bin;C:\PERL51001\Perl\bin;C:\Program Files (x86)\RSA SecurID Token Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft Application Virtualization Client;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\java\jre6\bin\;C:\Program Files (x86)\Perforce;C:\Program Files\Common Files\Hitachi ID\" name="java.library.path"/>
+    <property value="http://www.ibm.com/" name="java.vendor.url"/>
+    <property value="IBM Corporation" name="java.vm.vendor"/>
+    <property value="J2RE 1.6.0 IBM J9 2.4 Windows Vista amd64-64 jvmwa6460sr5-20090519_35743 (JIT enabled, AOT enabled)
+J9VM - 20090519_035743_LEdSMr
+JIT  - r9_20090518_2017
+GC   - 20090417_AA" name="java.fullversion"/>
+    <property value="Java(TM) SE Runtime Environment" name="java.runtime.name"/>
+    <property value="C:\Users\KGARLA~1\AppData\Local\Temp\surefirebooter5829096402602857268.jar C:\Users\KGARLA~1\AppData\Local\Temp\surefire515335544459958876tmp C:\Users\KGARLA~1\AppData\Local\Temp\surefire2533713511898164395tmp" name="sun.java.command"/>
+    <property value="C:\ppde-sparta-1.0.0\test1\target\test-classes;C:\ppde-sparta-1.0.0\test1\target\classes;C:\Users\kgarlapati\.m2\maven.repo\junit\junit\3.8.1\junit-3.8.1.jar;" name="java.class.path"/>
+    <property value="Java Virtual Machine Specification" name="java.vm.specification.name"/>
+    <property value="1.0" name="java.vm.specification.version"/>
+    <property value="C:\ppde-sparta-1.0.0\test1\target\test-classes;C:\ppde-sparta-1.0.0\test1\target\classes;C:\Users\kgarlapati\.m2\maven.repo\junit\junit\3.8.1\junit-3.8.1.jar;" name="surefire.test.class.path"/>
+    <property value="C:\Users\KGARLA~1\AppData\Local\Temp\" name="java.io.tmpdir"/>
+    <property value="20090529_01" name="java.jcl.version"/>
+    <property value="Cp1252" name="ibm.system.encoding"/>
+    <property value="amd64" name="os.arch"/>
+    <property value="sun.awt.Win32GraphicsEnvironment" name="java.awt.graphicsenv"/>
+    <property value="false" name="ibm.signalhandling.rs"/>
+    <property value="C:\ppde-sparta-1.0.0\java6-ibm-sr5ifx-2009-09-18-windows_64\jre\lib\ext" name="java.ext.dirs"/>
+    <property value="C:\ppde-sparta-1.0.0\test1" name="user.dir"/>
+    <property value="
+" name="line.separator"/>
+    <property value="IBM J9 VM" name="java.vm.name"/>
+    <property value="false" name="com.ibm.oti.shared.enabled"/>
+    <property value="64" name="com.ibm.vm.bitmode"/>
+    <property value="C:\ppde-sparta-1.0.0\test1" name="basedir"/>
+    <property value="14" name="jxe.lowest.romimage.version"/>
+    <property value="Cp1252" name="file.encoding"/>
+    <property value="20090512_1500" name="com.ibm.oti.jcl.build"/>
+    <property value="1.6" name="java.specification.version"/>
+    <property value="scar" name="com.ibm.oti.configuration"/>
+  </properties>
+  <testcase classname="com.companyname.test.AppTest" name="testApp" time="0.002"/>
+</testsuite>

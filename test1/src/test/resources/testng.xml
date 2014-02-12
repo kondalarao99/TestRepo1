@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="Sample test suite" verbose="1" thread-count="5" parallel="tests">
+     <test name="sample test">       
+        <classes>
+            <class name="com.abc.test.TestClass" />
+        </classes>
+    </test>
+</suite>
